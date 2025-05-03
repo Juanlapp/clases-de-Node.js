@@ -37,6 +37,6 @@ async function main() {
     } catch (error) {
         console.error("Error capturado:", error); // Captura y muestra el error sin detener el programa
     }
-}
+} 
 
 main();
